@@ -1,0 +1,2 @@
+# ChatOpenReview
+众筹开源项目：利用OpenReview的优质审稿数据，微调出一个专业的审稿和审稿回复GPT
