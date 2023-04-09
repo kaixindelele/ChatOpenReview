@@ -7,9 +7,15 @@ openreview官方提供数据批量下载：https://docs.openreview.net/getting-s
 以及之前ACL的这篇杰出工作：[A Meta-Review Dataset for Controllable Text Generation](https://github.com/Shen-Chenhui/MReD)
 
 ## 准备工作：
-1. 其他会议的数据爬取和清洗
-2. 挑选一个文本输出长度不低于4K token的开源LLM模型
-3. 制备指令微调数据集
+0. 阅读meta-review的论文，梳理这篇工作解决的问题，借鉴他们的思路--需要一位同学看完，给大家做汇报；
+1. 下载和分析meta-review的数据，分析格式和效果；--需要一位会python的同学做梳理。 
+2. OpenReview的其他会议的数据爬取和清洗；--需要一位会python或者jave的同学爬取，还需要一定的存储能力。我之前试过爬取简单的爬取，但是没有拿到审稿信息；
+3. 挑选一个文本输出长度不低于4K token的开源LLM模型--需要一位熟悉LLM的同学，最好是微调过LLM的同学。
+4. 设计一个方案，实现PDF论文的长文本+审稿prompt的压缩，或者滑动输入。--需要一个懂NLP和LLM的同学
+5. 制备指令微调数据集--同上
+
+希望大家领取任务后，自己评估一下任务周期，咱们尽量一两天同步一次进度。
+
 
 ## 团队招募：
 1. 做过LLMs微调工作的大佬 or 其他代码能力强的同学
