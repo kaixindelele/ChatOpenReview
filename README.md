@@ -19,4 +19,6 @@ openreview官方提供数据批量下载：https://docs.openreview.net/getting-s
 ## 联系方式：
 主页有我的QQ邮箱，欢迎对项目感兴趣的大佬们加QQ好友，或者邮件联系！
 
+最近加的人比较多，敬请附上学校/公司，技术栈，以及动机，麻烦大家了!
+
 明天准备和meta-review的作者团队联系
