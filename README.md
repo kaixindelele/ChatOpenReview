@@ -1,6 +1,9 @@
 # ChatOpenReview
 众筹开源项目：利用OpenReview的优质审稿数据，微调出一个专业的审稿和审稿回复GPT
 
+## 进展
+4.14 今天已经尝试爬取NIPS22的审稿数据
+
 
 ## 数据来源
 openreview官方提供数据批量下载：https://docs.openreview.net/getting-started/using-the-api/notes/exporting-all-reviews-into-a-csv
