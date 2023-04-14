@@ -13,7 +13,7 @@ git clone git@github.com:openreview/openreview-py.git
 cd openreview-py
 pip3 install -e .
 ```
-3. 在openreview官网注册账号，报错用户邮箱和密码，填入get_reviewers.py的对应位置
+3. 不注册也行：~~在openreview官网注册账号，报错用户邮箱和密码，填入get_reviewers.py的对应位置~~
 4. 设置网络，如果在国内，需要魔法，且需要将网络设置为tun模式：参考这个链接：[tun设置](https://github.com/kaixindelele/chatpaper#%E4%B8%80%E4%BB%A5%E8%84%9A%E6%9C%AC%E6%96%B9%E5%BC%8F%E8%BF%90%E8%A1%8C)
 5. 注意，数据保存格式需要仔细查看，当前的txt格式可能后期不好提取；官方文档推荐的是csv：[export to csv](https://docs.openreview.net/getting-started/using-the-api/notes/exporting-all-reviews-into-a-csv)
 6. 目前的格式前几个审稿content是审稿的，后面几个是作者的回复，大家后期可以做数据清洗时注意下。
