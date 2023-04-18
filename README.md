@@ -2,6 +2,9 @@
 众筹开源项目：利用OpenReview的优质审稿数据，微调出一个专业的审稿和审稿回复GPT
 
 ## 进展
+4.18 今天已经爬取了NIPS22的审稿数据，匹配好了审稿和审稿回复信息。下载链接如下：[NeurIPS_2022_reviews.json](https://www.aliyundrive.com/s/hqKrKxeUw5S) 提取码: xp21
+如果大家有发现匹配不上的文章，欢迎及时报告！
+
 4.14 今天已经尝试爬取NIPS22的审稿数据
 
 ## 爬取数据教程：
