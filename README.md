@@ -37,7 +37,7 @@ Weaknesses:
 - The paper does not provide details on the hyperparameter tuning process or model selection for the RL agent and GNN. Understanding how these choices were made and how sensitive the results are to different hyperparameter settings would help establish the robustness and generalizability of the proposed method.
 
 Overall, the paper presents a well-motivated and innovative approach to grid coarsening for AMG methods, successfully addressing the problem and showing promising results. However, the paper could benefit from a broader discussion of related machine learning-based approaches and further investigation into generalizing the proposed method.
-     '''
+'''
 
 4.25 敬请期待第一个微调小模型的发布
 
