@@ -12,8 +12,9 @@
           5. AI4S
      Any other suggestions please feel free to command in issue
      
-     Sample Result:
-'''
+'''   
+Sample Result:
+
 
 Input:  Optimization-Based Algebraic Multigrid Coarsening Using Reinforcement Learning
 Output: 
