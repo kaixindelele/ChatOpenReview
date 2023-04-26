@@ -4,13 +4,14 @@
 ## 进展
 
 4.26 First domain: Reinforcement Learning Domain Fineturned model have a good result
-     \n we decided to fineturn in difference domain, AI area first, expected will be:
-          \n 1. Reinforcment Learning
+     we decided to fineturn in difference domain, AI area first, expected will be:
+          {1. Reinforcment Learning
           2. Computer Vision
           3. NLP
           4. Robotics
-          5. AI4S
-     Any other suggestions please feel free to command in issue
+          5. AI4S}
+
+Any other suggestions please feel free to command in issue
      
 ```  
 Sample Result:
