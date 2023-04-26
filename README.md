@@ -4,15 +4,15 @@
 ## 进展
 
 4.26 First domain: Reinforcement Learning Domain Fineturned model have a good result
-     we decided to fineturn in difference domain, AI area first, expected will be:
-          1. Reinforcment Learning
+     \n we decided to fineturn in difference domain, AI area first, expected will be:
+          \n 1. Reinforcment Learning
           2. Computer Vision
           3. NLP
           4. Robotics
           5. AI4S
      Any other suggestions please feel free to command in issue
      
-'''python   
+```  
 Sample Result:
 
 
@@ -40,7 +40,7 @@ Weaknesses:
 
 Overall, the paper presents a well-motivated and innovative approach to grid coarsening for AMG methods, successfully addressing the problem and showing promising results. However, the paper could benefit from a broader discussion of related machine learning-based approaches and further investigation into generalizing the proposed method.
 
-'''
+```
 
 4.25 敬请期待第一个微调小模型的发布
 
